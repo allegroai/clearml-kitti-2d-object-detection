@@ -1,0 +1,33 @@
+clearml
+allegroai
+tqdm
+certifi
+cffi
+cloudpickle
+cycler
+cytoolz
+dask
+decorator
+imageio
+kiwisolver
+matplotlib
+imgaug
+# mkl-fft==1.0.10
+# mkl-random==1.0.2
+networkx
+numpy<=1.20
+olefile
+Pillow
+pycparser
+pyparsing
+python-dateutil
+PyWavelets
+scikit-image<0.18
+scipy
+Shapely
+six
+toolz
+torch<=1.4
+torchvision
+tornado
+wincertstore
